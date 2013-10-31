@@ -41,10 +41,10 @@ designed to take full advantage of multiples cores.
 Citation
 --------
 
-If you are using the results of this computation or referring to the ideas in
-the paper, please cite:
+For referring to this work, please cite:
 
-If you are using this `mahotas <http://mahotas.rtfd.org>`__ based
-implementation, please cite the software paper too:
-
-
+   *Determining the subcellular location of new proteins from microscope images
+   using local features* by Luis Pedro Coelho, Joshua D. Kangas, Armaghan Naik,
+   Elvira Osuna-Highley, Estelle Glory-Afshar, Margaret Fuhrman, Ramanuja
+   Simha, Peter B. Berget, Jonathan W. Jarvik, and Robert F.  Murphy (2013).
+   Bioinformatics, [`DOI <http://dx.doi.org/10.1093/bioinformatics/btt392>`__]
