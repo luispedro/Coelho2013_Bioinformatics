@@ -19,13 +19,13 @@ Instructions
 ------------
 
 1. For the Human Protein Atas data, please download from
-http://murphylab.web.cmu.edu/software/2012_PLoS_ONE_Reannotation/
+   http://murphylab.web.cmu.edu/software/2012_PLoS_ONE_Reannotation/
 
-Edit the file ``sources/hpa.py`` to point to where you downloaded all the data.
+    Edit the file ``sources/hpa.py`` to point to where you downloaded all the data.
 
 2. Get the randtag data from
-http://murphylab.web.cmu.edu/software/2013_Bioinformatics_LocalFeatures/ or from
-
+   http://murphylab.web.cmu.edu/software/2013_Bioinformatics_LocalFeatures/ or
+   from `Data Dryad <http://datadryad.org/resource/doi:10.5061/dryad.2vm70>`__
 
 3. The remaining data should be automatically downloaded when you run::
 
